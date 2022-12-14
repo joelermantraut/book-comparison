@@ -1,4 +1,3 @@
-from pprint import pprint
 from sentence_transformers import SentenceTransformer, util
 # https://www.sbert.net/docs/package_reference/util.html#sentence_transformers.util.paraphrase_mining
 
