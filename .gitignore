@@ -234,6 +234,6 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
-# End of https://www.toptal.com/developers/gitignore/api/virtualenv
+data/
 
 # End of https://www.toptal.com/developers/gitignore/api/sublimetext,visualstudiocode,python,virtualenv
