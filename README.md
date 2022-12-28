@@ -26,7 +26,6 @@ If you are gonna use Spacy, install model:
 
 ```
 python3 -m spacy download en_core_web_lg
-
 ```
 
 ## Usage
