@@ -13,6 +13,21 @@ Here, there are some example of use:
 Then, there are two main scripts, one with Sentences Transformers and other with Spacy Models.
  - "main_spacy.py": Spacy script.
  - "main_st.py": Sentences transformer script.
+ 
+## Installation
+
+Install all dependencies with "requirements.txt" file:
+
+```
+pip install -r requirements.txt
+```
+
+If you are gonna use Spacy, install model:
+
+```
+python3 -m spacy download en_core_web_lg
+
+```
 
 ## Usage
 
