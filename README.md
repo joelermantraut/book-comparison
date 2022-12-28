@@ -18,7 +18,7 @@ Then, there are two main scripts, one with Sentences Transformers and other with
 
 Both scripts do the same, receive two parameters from console, being two books filepaths. Then, compare and after
 it, save results in a "data/metric" file.
-`````
+
 ```
 python main_st.py book1_filepath book2_filepath
 
