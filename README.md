@@ -1,6 +1,6 @@
 # book-comparison
 
-In this repository there are some script to compare sentences meaning similarity. My idea is to use it to compare
+In this repository there are some scripts to compare sentences meaning similarity. My idea is to use it to compare
 book notes similarities. 
 
 ## Content
